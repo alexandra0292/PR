@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alexandra\\source\\repos\\laborator1\\Client0\\Client0.csproj": {}
+    "C:\\Users\\Alexandra\\source\\repos\\PR\\laborator1\\Client0\\Client0.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alexandra\\source\\repos\\laborator1\\Client0\\Client0.csproj": {
+    "C:\\Users\\Alexandra\\source\\repos\\PR\\laborator1\\Client0\\Client0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexandra\\source\\repos\\laborator1\\Client0\\Client0.csproj",
+        "projectUniqueName": "C:\\Users\\Alexandra\\source\\repos\\PR\\laborator1\\Client0\\Client0.csproj",
         "projectName": "Client0",
-        "projectPath": "C:\\Users\\Alexandra\\source\\repos\\laborator1\\Client0\\Client0.csproj",
+        "projectPath": "C:\\Users\\Alexandra\\source\\repos\\PR\\laborator1\\Client0\\Client0.csproj",
         "packagesPath": "C:\\Users\\Alexandra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexandra\\source\\repos\\laborator1\\Client0\\obj\\",
+        "outputPath": "C:\\Users\\Alexandra\\source\\repos\\PR\\laborator1\\Client0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alexandra\\AppData\\Roaming\\NuGet\\NuGet.Config",

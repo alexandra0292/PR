@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alexandra\\source\\repos\\laborator1\\Client\\Client.csproj",
+      "projectUniqueName": "C:\\Users\\Alexandra\\source\\repos\\PR\\laborator1\\Client\\Client.csproj",
       "projectName": "Client",
-      "projectPath": "C:\\Users\\Alexandra\\source\\repos\\laborator1\\Client\\Client.csproj",
+      "projectPath": "C:\\Users\\Alexandra\\source\\repos\\PR\\laborator1\\Client\\Client.csproj",
       "packagesPath": "C:\\Users\\Alexandra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alexandra\\source\\repos\\laborator1\\Client\\obj\\",
+      "outputPath": "C:\\Users\\Alexandra\\source\\repos\\PR\\laborator1\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alexandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
