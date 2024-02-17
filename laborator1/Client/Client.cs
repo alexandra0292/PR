@@ -6,7 +6,7 @@ using System.Threading;
 
 class Client
 {
-    static string userName="";
+    static string userName = "";
 
     static void Main()
     {
@@ -21,6 +21,7 @@ class Client
             client.Connect(new IPEndPoint(serverIP, serverPort));
             Console.WriteLine($"Connected to the server as '{userName}'");
 
+            // Thread for receiving messages
             Thread receiveThread = new Thread(() => ReceiveMessages(client));
             receiveThread.Start();
 
@@ -50,26 +51,26 @@ class Client
             Console.WriteLine($"Error sending message: {ex.Message}");
         }
     }
+
     static void ReceiveMessages(Socket client)
     {
         try
         {
-            StringBuilder receivedTextBuilder = new StringBuilder();
-            byte[] receivedBuffer = new byte[1024];
+            while (true)
+            {
+                byte[] receivedBuffer = new byte[1024];
+                int bytesRead = client.Receive(receivedBuffer);
+                string receivedText = Encoding.UTF8.GetString(receivedBuffer, 0, bytesRead);
 
-            while (client.Connected && client.Receive(receivedBuffer) > 0)
-            {
-                receivedTextBuilder.Append(Encoding.UTF8.GetString(receivedBuffer, 0, receivedBuffer.Length));
-            }
-
-            string receivedText = receivedTextBuilder.ToString();
-            if (!string.IsNullOrEmpty(receivedText))
-            {
-                Console.WriteLine(receivedText);
-            }
-            else
-            {
-                Console.WriteLine("Connection closed by the server.");
+                if (!string.IsNullOrEmpty(receivedText))
+                {
+                    Console.WriteLine(receivedText);
+                }
+                else
+                {
+                    Console.WriteLine("Connection closed by the server.");
+                    break;
+                }
             }
         }
         catch (Exception ex)
