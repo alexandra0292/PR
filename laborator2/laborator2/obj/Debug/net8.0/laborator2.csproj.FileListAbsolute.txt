@@ -1,0 +1,14 @@
+C:\Users\sandu\source\repos\laborator2\laborator2\bin\Debug\net8.0\laborator2.exe
+C:\Users\sandu\source\repos\laborator2\laborator2\bin\Debug\net8.0\laborator2.deps.json
+C:\Users\sandu\source\repos\laborator2\laborator2\bin\Debug\net8.0\laborator2.runtimeconfig.json
+C:\Users\sandu\source\repos\laborator2\laborator2\bin\Debug\net8.0\laborator2.dll
+C:\Users\sandu\source\repos\laborator2\laborator2\bin\Debug\net8.0\laborator2.pdb
+C:\Users\sandu\source\repos\laborator2\laborator2\obj\Debug\net8.0\laborator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandu\source\repos\laborator2\laborator2\obj\Debug\net8.0\laborator2.AssemblyInfoInputs.cache
+C:\Users\sandu\source\repos\laborator2\laborator2\obj\Debug\net8.0\laborator2.AssemblyInfo.cs
+C:\Users\sandu\source\repos\laborator2\laborator2\obj\Debug\net8.0\laborator2.csproj.CoreCompileInputs.cache
+C:\Users\sandu\source\repos\laborator2\laborator2\obj\Debug\net8.0\laborator2.dll
+C:\Users\sandu\source\repos\laborator2\laborator2\obj\Debug\net8.0\refint\laborator2.dll
+C:\Users\sandu\source\repos\laborator2\laborator2\obj\Debug\net8.0\laborator2.pdb
+C:\Users\sandu\source\repos\laborator2\laborator2\obj\Debug\net8.0\laborator2.genruntimeconfig.cache
+C:\Users\sandu\source\repos\laborator2\laborator2\obj\Debug\net8.0\ref\laborator2.dll
