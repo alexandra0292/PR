@@ -7,7 +7,7 @@ using System.Threading;
 
 class Program
 {
-    private static readonly string host = "192.168.0.28";
+    private static readonly string host = "192.168.43.15";
     private static readonly int port = 8500;
     private static readonly Dictionary<string, IPEndPoint> userAddresses = new Dictionary<string, IPEndPoint>();
     private static Socket serverSocket;
@@ -87,7 +87,6 @@ class Program
     {
         userAddresses.Remove(name);
         Console.WriteLine($"User {name} has left");
-        //Environment.Exit();
     }
 
     static void SendMessages()
