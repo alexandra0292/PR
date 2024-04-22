@@ -1,0 +1,30 @@
+C:\Users\catal\Desktop\Programarea in retea\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\catal\Desktop\Programarea in retea\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\catal\Desktop\Programarea in retea\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\catal\Desktop\Programarea in retea\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\catal\Desktop\Programarea in retea\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\catal\Desktop\Programarea in retea\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\catal\Desktop\Programarea in retea\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\catal\Desktop\Programarea in retea\Lab4\Lab4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\catal\Desktop\Programarea in retea\Lab4\Lab4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\catal\Desktop\Programarea in retea\Lab4\Lab4\obj\Debug\Lab4.csproj.CopyComplete
+D:\Sanda_1\Universitate\documents\Programarea in retea\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\Sanda_1\Universitate\documents\Programarea in retea\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\Sanda_1\Universitate\documents\Programarea in retea\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\Sanda_1\Universitate\documents\Programarea in retea\Lab4\Lab4\bin\Debug\Newtonsoft.Json.dll
+D:\Sanda_1\Universitate\documents\Programarea in retea\Lab4\Lab4\bin\Debug\Newtonsoft.Json.xml
+D:\Sanda_1\Universitate\documents\Programarea in retea\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+D:\Sanda_1\Universitate\documents\Programarea in retea\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\Sanda_1\Universitate\documents\Programarea in retea\Lab4\Lab4\obj\Debug\Lab4.csproj.Up2Date
+D:\Sanda_1\Universitate\documents\Programarea in retea\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\Sanda_1\Universitate\documents\Programarea in retea\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\sandu\source\repos\laborator4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\sandu\source\repos\laborator4\Lab4\bin\Debug\Lab4.exe
+C:\Users\sandu\source\repos\laborator4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\sandu\source\repos\laborator4\Lab4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sandu\source\repos\laborator4\Lab4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sandu\source\repos\laborator4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\sandu\source\repos\laborator4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\sandu\source\repos\laborator4\Lab4\obj\Debug\Lab4.csproj.Up2Date
+C:\Users\sandu\source\repos\laborator4\Lab4\obj\Debug\Lab4.exe
+C:\Users\sandu\source\repos\laborator4\Lab4\obj\Debug\Lab4.pdb
