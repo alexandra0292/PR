@@ -1,0 +1,9 @@
+1. Trebuie sa aveti instalat .net sdk la dvs pe laptop.
+2. Deschideti proiectul sil porniti . Daca aveti Visual studio apasati Start without DEbuuging . Daca aveti visual studio Code tastati pe rand comeniziile in terminal dotent build dotnet run.
+3. Aplicatia se va porni pe portul https://localhost:7051/swagger/index.html
+4. Aplicatia este facut in ASP.NET CORE Web Api la deschidere trebuie sa va apara endpointurile.
+5. Primul endpoint este pentru a trimite mesaj. Selectat endpointul. Apasam Try it Out pentru a incerca endpointul. Dupa care vom putea introduce datele pentru a trimite cuiva email campurile ToEmail si Subject sunt obligatorii, Body si Attachments nu sunt obligatorii.
+6. Urmatorele endpointuri sunt pentru a lua lista de mesaje folosind Imap si Pop3 unde doar  trebuie sa tastam Try it Out si dupa execute si vom primi ca raspuns o lista cu emailurile din casuta de emailuri.
+7. Endpointul 4 e pentru reply la mesaj aici e important ca sa introduci corect emailul si subiectul corect pentru ca acplicatia sa stie cui sai faca reply.
+8. Ultimul endpoint e pentru descarcare document unde e necesar sa introduci subiectul emailul si acesta il va gasi si daca are si atasamente il va descarca intrun folder Down care il creaza automat in program daca nu exista
+9. Daca doriti sa incercati cu emailul dvs in appsettings.json modificati emailul si e necesear sa va generati o parola pentru a trece de autentificarea cu 2 factori: https://myaccount.google.com/signinoptions/two-step-verification/enroll-welcome veti urma pasii pe acest link si creati o parola pentru aplicatia dvs. Pentru intrebari sau neclaritati ma puteti contacta pe gmail:catalinbuza31@gmail.com sau telegram cata21lin.
