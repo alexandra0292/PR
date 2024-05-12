@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sandu\\source\\repos\\laborator4\\",
+  "WorkspaceRootPath": "C:\\Users\\sandu\\source\\repos\\PR\\laborator4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01470C71-8DA3-4D69-9A62-B3BEAE4E7EEA}|Lab4\\Lab4.csproj|C:\\Users\\sandu\\source\\repos\\laborator4\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01470C71-8DA3-4D69-9A62-B3BEAE4E7EEA}|Lab4\\Lab4.csproj|C:\\Users\\sandu\\source\\repos\\PR\\laborator4\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01470C71-8DA3-4D69-9A62-B3BEAE4E7EEA}|Lab4\\Lab4.csproj|solutionrelative:lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01470C71-8DA3-4D69-9A62-B3BEAE4E7EEA}|Lab4\\Lab4.csproj|C:\\Users\\sandu\\source\\repos\\laborator4\\lab4\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01470C71-8DA3-4D69-9A62-B3BEAE4E7EEA}|Lab4\\Lab4.csproj|c:\\users\\sandu\\source\\repos\\pr\\laborator4\\lab4\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01470C71-8DA3-4D69-9A62-B3BEAE4E7EEA}|Lab4\\Lab4.csproj|solutionrelative:lab4\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01470C71-8DA3-4D69-9A62-B3BEAE4E7EEA}|Lab4\\Lab4.csproj|c:\\users\\sandu\\source\\repos\\laborator4\\lab4\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01470C71-8DA3-4D69-9A62-B3BEAE4E7EEA}|Lab4\\Lab4.csproj|C:\\Users\\sandu\\source\\repos\\PR\\laborator4\\lab4\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01470C71-8DA3-4D69-9A62-B3BEAE4E7EEA}|Lab4\\Lab4.csproj|solutionrelative:lab4\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,24 +28,23 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\sandu\\source\\repos\\laborator4\\Lab4\\ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\sandu\\source\\repos\\PR\\laborator4\\Lab4\\ProductService.cs",
               "RelativeDocumentMoniker": "Lab4\\ProductService.cs",
-              "ToolTip": "C:\\Users\\sandu\\source\\repos\\laborator4\\Lab4\\ProductService.cs",
+              "ToolTip": "C:\\Users\\sandu\\source\\repos\\PR\\laborator4\\Lab4\\ProductService.cs",
               "RelativeToolTip": "Lab4\\ProductService.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAQwAgAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T13:59:56.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T13:59:56.875Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\sandu\\source\\repos\\laborator4\\Lab4\\CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\sandu\\source\\repos\\PR\\laborator4\\Lab4\\CategoryService.cs",
               "RelativeDocumentMoniker": "Lab4\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\sandu\\source\\repos\\laborator4\\Lab4\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\sandu\\source\\repos\\PR\\laborator4\\Lab4\\CategoryService.cs",
               "RelativeToolTip": "Lab4\\CategoryService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAA9AAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwFoAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T13:59:57.141Z",
               "EditorCaption": ""
@@ -54,11 +53,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sandu\\source\\repos\\laborator4\\Lab4\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\sandu\\source\\repos\\PR\\laborator4\\Lab4\\Program.cs",
               "RelativeDocumentMoniker": "Lab4\\Program.cs",
-              "ToolTip": "C:\\Users\\sandu\\source\\repos\\laborator4\\Lab4\\Program.cs",
+              "ToolTip": "C:\\Users\\sandu\\source\\repos\\PR\\laborator4\\Lab4\\Program.cs",
               "RelativeToolTip": "Lab4\\Program.cs",
-              "ViewState": "AQIAAJAAAAAAAAAAAAAYwJYAAAABAAAA",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAgwAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T13:59:57.266Z",
               "EditorCaption": ""

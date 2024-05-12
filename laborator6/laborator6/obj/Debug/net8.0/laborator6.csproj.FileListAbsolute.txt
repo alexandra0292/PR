@@ -1,0 +1,14 @@
+C:\Users\sandu\source\repos\laborator6\laborator6\bin\Debug\net8.0\laborator6.exe
+C:\Users\sandu\source\repos\laborator6\laborator6\bin\Debug\net8.0\laborator6.deps.json
+C:\Users\sandu\source\repos\laborator6\laborator6\bin\Debug\net8.0\laborator6.runtimeconfig.json
+C:\Users\sandu\source\repos\laborator6\laborator6\bin\Debug\net8.0\laborator6.dll
+C:\Users\sandu\source\repos\laborator6\laborator6\bin\Debug\net8.0\laborator6.pdb
+C:\Users\sandu\source\repos\laborator6\laborator6\obj\Debug\net8.0\laborator6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandu\source\repos\laborator6\laborator6\obj\Debug\net8.0\laborator6.AssemblyInfoInputs.cache
+C:\Users\sandu\source\repos\laborator6\laborator6\obj\Debug\net8.0\laborator6.AssemblyInfo.cs
+C:\Users\sandu\source\repos\laborator6\laborator6\obj\Debug\net8.0\laborator6.csproj.CoreCompileInputs.cache
+C:\Users\sandu\source\repos\laborator6\laborator6\obj\Debug\net8.0\laborator6.dll
+C:\Users\sandu\source\repos\laborator6\laborator6\obj\Debug\net8.0\refint\laborator6.dll
+C:\Users\sandu\source\repos\laborator6\laborator6\obj\Debug\net8.0\laborator6.pdb
+C:\Users\sandu\source\repos\laborator6\laborator6\obj\Debug\net8.0\laborator6.genruntimeconfig.cache
+C:\Users\sandu\source\repos\laborator6\laborator6\obj\Debug\net8.0\ref\laborator6.dll

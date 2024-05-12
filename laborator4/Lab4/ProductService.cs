@@ -26,7 +26,7 @@ namespace Lab4
 
                     if (response.IsSuccessStatusCode)
                     {
-                        Console.WriteLine("Produs nou asaugat cu succes!");
+                        Console.WriteLine("Produs nou adaugat cu succes!");
                     }
                     else
                     {

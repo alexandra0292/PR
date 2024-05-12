@@ -28,3 +28,13 @@ C:\Users\sandu\source\repos\laborator4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInp
 C:\Users\sandu\source\repos\laborator4\Lab4\obj\Debug\Lab4.csproj.Up2Date
 C:\Users\sandu\source\repos\laborator4\Lab4\obj\Debug\Lab4.exe
 C:\Users\sandu\source\repos\laborator4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\sandu\source\repos\PR\laborator4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\sandu\source\repos\PR\laborator4\Lab4\bin\Debug\Lab4.exe
+C:\Users\sandu\source\repos\PR\laborator4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\sandu\source\repos\PR\laborator4\Lab4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sandu\source\repos\PR\laborator4\Lab4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sandu\source\repos\PR\laborator4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\sandu\source\repos\PR\laborator4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\sandu\source\repos\PR\laborator4\Lab4\obj\Debug\Lab4.csproj.Up2Date
+C:\Users\sandu\source\repos\PR\laborator4\Lab4\obj\Debug\Lab4.exe
+C:\Users\sandu\source\repos\PR\laborator4\Lab4\obj\Debug\Lab4.pdb

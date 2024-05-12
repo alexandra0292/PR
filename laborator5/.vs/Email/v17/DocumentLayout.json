@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sandu\\source\\repos\\Lab5\\",
+  "WorkspaceRootPath": "C:\\Users\\sandu\\source\\repos\\PR\\laborator5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FCCBBE1-4CF9-4188-991B-BDE069B7BD0A}|Email\\Email.csproj|c:\\users\\sandu\\source\\repos\\lab5\\email\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5FCCBBE1-4CF9-4188-991B-BDE069B7BD0A}|Email\\Email.csproj|solutionrelative:email\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FCCBBE1-4CF9-4188-991B-BDE069B7BD0A}|Email\\Email.csproj|c:\\users\\sandu\\source\\repos\\lab5\\email\\services\\getlistimap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FCCBBE1-4CF9-4188-991B-BDE069B7BD0A}|Email\\Email.csproj|solutionrelative:email\\services\\getlistimap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FCCBBE1-4CF9-4188-991B-BDE069B7BD0A}|Email\\Email.csproj|c:\\users\\sandu\\source\\repos\\lab5\\email\\services\\getlistpop3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FCCBBE1-4CF9-4188-991B-BDE069B7BD0A}|Email\\Email.csproj|solutionrelative:email\\services\\getlistpop3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FCCBBE1-4CF9-4188-991B-BDE069B7BD0A}|Email\\Email.csproj|c:\\users\\sandu\\source\\repos\\lab5\\email\\controllers\\mailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FCCBBE1-4CF9-4188-991B-BDE069B7BD0A}|Email\\Email.csproj|solutionrelative:email\\controllers\\mailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FCCBBE1-4CF9-4188-991B-BDE069B7BD0A}|Email\\Email.csproj|c:\\users\\sandu\\source\\repos\\lab5\\email\\email.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{5FCCBBE1-4CF9-4188-991B-BDE069B7BD0A}|Email\\Email.csproj|c:\\users\\sandu\\source\\repos\\pr\\laborator5\\email\\email.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5FCCBBE1-4CF9-4188-991B-BDE069B7BD0A}|Email\\Email.csproj|solutionrelative:email\\email.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCCBBE1-4CF9-4188-991B-BDE069B7BD0A}|Email\\Email.csproj|c:\\users\\sandu\\source\\repos\\lab5\\email\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCCBBE1-4CF9-4188-991B-BDE069B7BD0A}|Email\\Email.csproj|c:\\users\\sandu\\source\\repos\\pr\\laborator5\\email\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FCCBBE1-4CF9-4188-991B-BDE069B7BD0A}|Email\\Email.csproj|solutionrelative:email\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCCBBE1-4CF9-4188-991B-BDE069B7BD0A}|Email\\Email.csproj|c:\\users\\sandu\\source\\repos\\pr\\laborator5\\email\\services\\getlistpop3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCCBBE1-4CF9-4188-991B-BDE069B7BD0A}|Email\\Email.csproj|solutionrelative:email\\services\\getlistpop3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCCBBE1-4CF9-4188-991B-BDE069B7BD0A}|Email\\Email.csproj|c:\\users\\sandu\\source\\repos\\pr\\laborator5\\email\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCCBBE1-4CF9-4188-991B-BDE069B7BD0A}|Email\\Email.csproj|solutionrelative:email\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCCBBE1-4CF9-4188-991B-BDE069B7BD0A}|Email\\Email.csproj|c:\\users\\sandu\\source\\repos\\pr\\laborator5\\email\\services\\getlistimap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCCBBE1-4CF9-4188-991B-BDE069B7BD0A}|Email\\Email.csproj|solutionrelative:email\\services\\getlistimap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCCBBE1-4CF9-4188-991B-BDE069B7BD0A}|Email\\Email.csproj|c:\\users\\sandu\\source\\repos\\pr\\laborator5\\email\\controllers\\mailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCCBBE1-4CF9-4188-991B-BDE069B7BD0A}|Email\\Email.csproj|solutionrelative:email\\controllers\\mailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,28 +34,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MailController.cs",
-              "DocumentMoniker": "C:\\Users\\sandu\\source\\repos\\Lab5\\Email\\Controllers\\MailController.cs",
+              "DocumentMoniker": "C:\\Users\\sandu\\source\\repos\\PR\\laborator5\\Email\\Controllers\\MailController.cs",
               "RelativeDocumentMoniker": "Email\\Controllers\\MailController.cs",
-              "ToolTip": "C:\\Users\\sandu\\source\\repos\\Lab5\\Email\\Controllers\\MailController.cs",
+              "ToolTip": "C:\\Users\\sandu\\source\\repos\\PR\\laborator5\\Email\\Controllers\\MailController.cs",
               "RelativeToolTip": "Email\\Controllers\\MailController.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwEYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T12:56:26.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T12:56:26.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Email.csproj",
-              "DocumentMoniker": "C:\\Users\\sandu\\source\\repos\\Lab5\\Email\\Email.csproj",
+              "DocumentMoniker": "C:\\Users\\sandu\\source\\repos\\PR\\laborator5\\Email\\Email.csproj",
               "RelativeDocumentMoniker": "Email\\Email.csproj",
-              "ToolTip": "C:\\Users\\sandu\\source\\repos\\Lab5\\Email\\Email.csproj",
+              "ToolTip": "C:\\Users\\sandu\\source\\repos\\PR\\laborator5\\Email\\Email.csproj",
               "RelativeToolTip": "Email\\Email.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -64,11 +63,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\sandu\\source\\repos\\Lab5\\Email\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sandu\\source\\repos\\PR\\laborator5\\Email\\appsettings.json",
               "RelativeDocumentMoniker": "Email\\appsettings.json",
-              "ToolTip": "C:\\Users\\sandu\\source\\repos\\Lab5\\Email\\appsettings.json",
+              "ToolTip": "C:\\Users\\sandu\\source\\repos\\PR\\laborator5\\Email\\appsettings.json",
               "RelativeToolTip": "Email\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -77,37 +76,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "GetListImap.cs",
-              "DocumentMoniker": "C:\\Users\\sandu\\source\\repos\\Lab5\\Email\\Services\\GetListImap.cs",
+              "DocumentMoniker": "C:\\Users\\sandu\\source\\repos\\PR\\laborator5\\Email\\Services\\GetListImap.cs",
               "RelativeDocumentMoniker": "Email\\Services\\GetListImap.cs",
-              "ToolTip": "C:\\Users\\sandu\\source\\repos\\Lab5\\Email\\Services\\GetListImap.cs",
+              "ToolTip": "C:\\Users\\sandu\\source\\repos\\PR\\laborator5\\Email\\Services\\GetListImap.cs",
               "RelativeToolTip": "Email\\Services\\GetListImap.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAzwBcAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T14:21:15.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T14:21:15.166Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "GetListPop3.cs",
-              "DocumentMoniker": "C:\\Users\\sandu\\source\\repos\\Lab5\\Email\\Services\\GetListPop3.cs",
+              "DocumentMoniker": "C:\\Users\\sandu\\source\\repos\\PR\\laborator5\\Email\\Services\\GetListPop3.cs",
               "RelativeDocumentMoniker": "Email\\Services\\GetListPop3.cs",
-              "ToolTip": "C:\\Users\\sandu\\source\\repos\\Lab5\\Email\\Services\\GetListPop3.cs",
+              "ToolTip": "C:\\Users\\sandu\\source\\repos\\PR\\laborator5\\Email\\Services\\GetListPop3.cs",
               "RelativeToolTip": "Email\\Services\\GetListPop3.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T14:21:15.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T14:21:15.197Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sandu\\source\\repos\\Lab5\\Email\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\sandu\\source\\repos\\PR\\laborator5\\Email\\Program.cs",
               "RelativeDocumentMoniker": "Email\\Program.cs",
-              "ToolTip": "C:\\Users\\sandu\\source\\repos\\Lab5\\Email\\Program.cs",
+              "ToolTip": "C:\\Users\\sandu\\source\\repos\\PR\\laborator5\\Email\\Program.cs",
               "RelativeToolTip": "Email\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

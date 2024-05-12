@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s81ILL5N0zjXm08mI60PLOHmMkfiU1F4qY9qS1Sy7nfItVvnv76D5XF2dfJK2sN+JvxjGjonKGq2m3cJgotBVg==",
+  "dgSpecHash": "LFxVqnN+Jm/O8784P2to4JKFsmuqudk+OCMbDB0TJoBQqWQ49K40tXyW52ZQT3SY8m6kqBmCE+VSy2Ej4KfgoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sandu\\source\\repos\\Lab5\\Email\\Email.csproj",
+  "projectFilePath": "C:\\Users\\sandu\\source\\repos\\PR\\laborator5\\Email\\Email.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sandu\\.nuget\\packages\\bouncycastle.cryptography\\2.3.0\\bouncycastle.cryptography.2.3.0.nupkg.sha512",
     "C:\\Users\\sandu\\.nuget\\packages\\mailkit\\4.4.0\\mailkit.4.4.0.nupkg.sha512",
